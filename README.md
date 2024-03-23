@@ -7,4 +7,7 @@ In retinal blood vessel extraction, a major limitation is that thin blood vessel
 **The corresponding new benchmark after elimination of thick vessels:** <br/>
 ![image](https://user-images.githubusercontent.com/21992001/188757682-7b01de56-2dbf-49b9-b43d-89f5d6ca81bc.png) 
 
-**Just run Demo.m**
+For Usage:
+===========
+
+**Just run 'Demo.m' script.**
